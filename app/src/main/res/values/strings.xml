@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AniMistry</string>
+    <string name="NextButton">Next</string>
+    <string name="PreviousButton">Previous</string>
+    <string name="Try_again_button">Try Again</string>
+    <string name="animalName">AnimalName</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+</resources>
